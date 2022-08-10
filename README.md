@@ -1,9 +1,22 @@
-# RocketCoffe
+# RocketCoffee
 
 Projeto de menu online desenvolvido durante a Maratona Explorer 3.0 da RocketSeat.
+
+| Projeto                     | RocketSeat - Maratona Explorer 3.0        |
+| --------------------------- | ---------------------------- |
+| **Nome do Projeto**         | RocketCoffee (rocket-coffee) |
+| **Tecnologias**             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=30 />                 |
+| **Link no GitHub**          | https://github.com/Bambatera/rocket-coffee |
+| **Situação**                | Disponível Online            |
+| **URL de Acesso**           | https://rocket-coffee.netlify.app |
+| **Versão Atual**            | 0.0.1                        |
+| **Back-end**                | Não tem                      |
+
+![Tela inicial da aplicação](./assets/images/rocket-coffee.png "RocketCoffee")
+
 Este projeto consiste em exibir um cardápio online ao ler um QR Code. O menu em questão apresenta um cardápio com opções de *Brunch*, Almoço e Bebidas com seus respectivos preços.
 
-Este é um projeto simples, utilizando apenas HTML 5 e CSS 3.
+Este é um projeto simples, utilizando apenas HTML5 e CSS3.
 
 ## Status
 
