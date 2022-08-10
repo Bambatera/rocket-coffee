@@ -18,10 +18,6 @@ header {
   padding: 0 !important;
 }
 
-.logo {
-  height: 60px;
-  float: left;
-}
 
 header h1 {
   text-transform: uppercase;
@@ -89,81 +85,96 @@ section ul li {
 
 /* CSS do Curso*/
 * {
-    margin: 0;
-    padding: 0;
-  }
-  
-  body {
-    background: #FFEDD5;
-    font-family: 'Roboto', sans-serif;
-  }
-  
-  h1, h2, h3, .price {
-    font-family: 'Roboto Serif', serif;
-    text-transform: uppercase;
-    color: #2C2D2A;
-  }
-  
-  ul {
-    list-style: none;
-  }
-  
-  header {
-    padding: 32px 0;
-    text-align: center;
-  }
-  
-  header, section {
-    max-width: 300px;
-    margin: 0 auto;
-  }
-  
-  header h1 {
-    margin-bottom: 4px;
-    font-size: 28px;
-    line-height: 33px;
-  }
-  
-  header h1 span {
-    color: #995000;
-  }
-  
-  header p {
-    font-size: 14px;
-    line-height: 16px;
-    color: rgba(0, 0, 0, 0.7);
-  }
-  
-  section {
-    margin-bottom: 24px;
-  }
-  
-  section h2 {
-    background-color: #FED7AA;
-    padding: 8px 16px;
-    text-align: center;
-    margin-bottom: 24px;
-    font-size: 18px;
-  }
-  
-  ul li {
-    margin-bottom: 16px;
-    display: flex;
-  }
-  
-  li .details {
-    max-width: 240px;
-  }
-  
-  li .details h3 {
-    margin-bottom: 8px;
-    font-size: 16px;
-    line-height: 19px;
-  }
-  
-  .details p {
-    color: rgba(0, 0, 0, 0.6);
-    font-size: 14px;
-    line-height: 21px;
-  }
-  
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fff6d5;
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+  height: 120px;
+}
+
+h1,
+h2,
+h3,
+.price {
+  font-family: 'Roboto Serif', serif;
+  text-transform: uppercase;
+  color: #2C2D2A;
+}
+
+ul {
+  list-style: none;
+}
+
+header {
+  padding: 32px 0;
+  text-align: center;
+  display: block;
+}
+
+header,
+section {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+header h1 {
+  margin-bottom: 4px;
+  font-size: 28px;
+  line-height: 33px;
+}
+
+header h1 span {
+  color: #995000;
+}
+
+header p {
+  font-size: 14px;
+  line-height: 16px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+section {
+  margin-bottom: 24px;
+}
+
+section h2 {
+  background-color: #FED7AA;
+  padding: 8px 16px;
+  text-align: center;
+  margin-bottom: 24px;
+  font-size: 18px;
+}
+
+ul li {
+  margin-bottom: 16px;
+  display: flex;
+}
+
+li .details {
+  max-width: 220px;
+  width: 100%;
+}
+
+li .details h3 {
+  margin-bottom: 8px;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.details p {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.price {
+  text-align: end;
+  max-width: 80px;
+  width: 100%;
+}
