@@ -1,3 +1,5 @@
+<img src="./rocketseat.svg" height=30 style="float: right;" />
+
 # RocketCoffee
 
 Projeto de menu online desenvolvido durante a Maratona Explorer 3.0 da RocketSeat.
